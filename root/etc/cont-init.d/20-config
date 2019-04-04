@@ -3,6 +3,6 @@
 mkdir -p /defaults /root/Downloads
 
 # permissions
-chown abc:abc -R \
-	/defaults \
-	/root/Downloads
+# chown abc:abc -R \
+# 	/defaults \
+# 	/root/Downloads

@@ -1,0 +1,1 @@
+docker build -t sntong/docker-baidupcs:latest -t sntong/docker-baidupcs:$1 .
